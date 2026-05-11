@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 db = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="admin",
+    password="",
     database="social_db"
 )
 
