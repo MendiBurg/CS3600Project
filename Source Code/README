@@ -1,13 +1,13 @@
-# README
+README
 This project is a basic database vizualatazion for a mock social media platform.
 This source code folder holds the source code, and the sql queries that can be 
 copy and pasted into your own instance of our code.
 
-## **Required tools**
+Required tools
 -XAMPP
 -Python
 
-## **Installation and Running steps**
+Installation and Running steps
 1. Install XAMPP
 2. Start Apache/MySQL
 3. Import SQL files
