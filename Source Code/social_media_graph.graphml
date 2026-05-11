@@ -1,0 +1,500 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="relationship" attr.type="string" />
+  <key id="d1" for="node" attr.name="node_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="User_1">
+      <data key="d0">Alice</data>
+      <data key="d1">User</data>
+    </node>
+    <node id="User_2">
+      <data key="d0">Bob</data>
+      <data key="d1">User</data>
+    </node>
+    <node id="User_3">
+      <data key="d0">Charlie</data>
+      <data key="d1">User</data>
+    </node>
+    <node id="User_4">
+      <data key="d0">Diana</data>
+      <data key="d1">User</data>
+    </node>
+    <node id="User_5">
+      <data key="d0">Ethan</data>
+      <data key="d1">User</data>
+    </node>
+    <node id="User_6">
+      <data key="d0">Fiona</data>
+      <data key="d1">User</data>
+    </node>
+    <node id="User_7">
+      <data key="d0">George</data>
+      <data key="d1">User</data>
+    </node>
+    <node id="User_8">
+      <data key="d0">Hannah</data>
+      <data key="d1">User</data>
+    </node>
+    <node id="User_9">
+      <data key="d0">Ian</data>
+      <data key="d1">User</data>
+    </node>
+    <node id="User_10">
+      <data key="d0">Julia</data>
+      <data key="d1">User</data>
+    </node>
+    <node id="User_11">
+      <data key="d0">Kevin</data>
+      <data key="d1">User</data>
+    </node>
+    <node id="User_12">
+      <data key="d0">Lily</data>
+      <data key="d1">User</data>
+    </node>
+    <node id="User_13">
+      <data key="d0">Mike</data>
+      <data key="d1">User</data>
+    </node>
+    <node id="User_14">
+      <data key="d0">Nina</data>
+      <data key="d1">User</data>
+    </node>
+    <node id="User_15">
+      <data key="d0">Oscar</data>
+      <data key="d1">User</data>
+    </node>
+    <node id="Post_1">
+      <data key="d0">Post 1</data>
+      <data key="d1">Post</data>
+    </node>
+    <node id="Post_2">
+      <data key="d0">Post 2</data>
+      <data key="d1">Post</data>
+    </node>
+    <node id="Post_3">
+      <data key="d0">Post 3</data>
+      <data key="d1">Post</data>
+    </node>
+    <node id="Post_4">
+      <data key="d0">Post 4</data>
+      <data key="d1">Post</data>
+    </node>
+    <node id="Post_5">
+      <data key="d0">Post 5</data>
+      <data key="d1">Post</data>
+    </node>
+    <node id="Post_6">
+      <data key="d0">Post 6</data>
+      <data key="d1">Post</data>
+    </node>
+    <node id="Post_7">
+      <data key="d0">Post 7</data>
+      <data key="d1">Post</data>
+    </node>
+    <node id="Post_8">
+      <data key="d0">Post 8</data>
+      <data key="d1">Post</data>
+    </node>
+    <node id="Post_9">
+      <data key="d0">Post 9</data>
+      <data key="d1">Post</data>
+    </node>
+    <node id="Post_10">
+      <data key="d0">Post 10</data>
+      <data key="d1">Post</data>
+    </node>
+    <node id="Post_11">
+      <data key="d0">Post 11</data>
+      <data key="d1">Post</data>
+    </node>
+    <node id="Post_12">
+      <data key="d0">Post 12</data>
+      <data key="d1">Post</data>
+    </node>
+    <node id="Post_13">
+      <data key="d0">Post 13</data>
+      <data key="d1">Post</data>
+    </node>
+    <node id="Post_14">
+      <data key="d0">Post 14</data>
+      <data key="d1">Post</data>
+    </node>
+    <node id="Post_15">
+      <data key="d0">Post 15</data>
+      <data key="d1">Post</data>
+    </node>
+    <node id="Club_1">
+      <data key="d0">Tech Club</data>
+      <data key="d1">Club</data>
+    </node>
+    <node id="Club_2">
+      <data key="d0">Gaming Club</data>
+      <data key="d1">Club</data>
+    </node>
+    <node id="Club_3">
+      <data key="d0">Travel Club</data>
+      <data key="d1">Club</data>
+    </node>
+    <node id="Club_4">
+      <data key="d0">Food Club</data>
+      <data key="d1">Club</data>
+    </node>
+    <node id="Club_5">
+      <data key="d0">Study Club</data>
+      <data key="d1">Club</data>
+    </node>
+    <node id="Hashtag_1">
+      <data key="d0">#coding</data>
+      <data key="d1">Hashtag</data>
+    </node>
+    <node id="Hashtag_2">
+      <data key="d0">#databases</data>
+      <data key="d1">Hashtag</data>
+    </node>
+    <node id="Hashtag_3">
+      <data key="d0">#travel</data>
+      <data key="d1">Hashtag</data>
+    </node>
+    <node id="Hashtag_4">
+      <data key="d0">#food</data>
+      <data key="d1">Hashtag</data>
+    </node>
+    <node id="Hashtag_5">
+      <data key="d0">#gaming</data>
+      <data key="d1">Hashtag</data>
+    </node>
+    <node id="Hashtag_6">
+      <data key="d0">#school</data>
+      <data key="d1">Hashtag</data>
+    </node>
+    <node id="Hashtag_7">
+      <data key="d0">#python</data>
+      <data key="d1">Hashtag</data>
+    </node>
+    <node id="Hashtag_8">
+      <data key="d0">#mysql</data>
+      <data key="d1">Hashtag</data>
+    </node>
+    <node id="Hashtag_9">
+      <data key="d0">#hiking</data>
+      <data key="d1">Hashtag</data>
+    </node>
+    <node id="Hashtag_10">
+      <data key="d0">#books</data>
+      <data key="d1">Hashtag</data>
+    </node>
+    <edge source="User_1" target="Post_1">
+      <data key="d2">POSTED</data>
+    </edge>
+    <edge source="User_1" target="User_2">
+      <data key="d2">FOLLOWS</data>
+    </edge>
+    <edge source="User_1" target="User_3">
+      <data key="d2">FOLLOWS</data>
+    </edge>
+    <edge source="User_1" target="Post_2">
+      <data key="d2">COMMENTED</data>
+    </edge>
+    <edge source="User_1" target="Post_15">
+      <data key="d2">LIKED</data>
+    </edge>
+    <edge source="User_1" target="Post_14">
+      <data key="d2">COMMENTED</data>
+    </edge>
+    <edge source="User_1" target="Club_1">
+      <data key="d2">MEMBER_OF</data>
+    </edge>
+    <edge source="User_2" target="Post_2">
+      <data key="d2">POSTED</data>
+    </edge>
+    <edge source="User_2" target="User_1">
+      <data key="d2">FOLLOWS</data>
+    </edge>
+    <edge source="User_2" target="User_4">
+      <data key="d2">FOLLOWS</data>
+    </edge>
+    <edge source="User_2" target="Post_1">
+      <data key="d2">COMMENTED</data>
+    </edge>
+    <edge source="User_2" target="Post_15">
+      <data key="d2">COMMENTED</data>
+    </edge>
+    <edge source="User_2" target="Club_1">
+      <data key="d2">MEMBER_OF</data>
+    </edge>
+    <edge source="User_3" target="Post_3">
+      <data key="d2">POSTED</data>
+    </edge>
+    <edge source="User_3" target="User_1">
+      <data key="d2">FOLLOWS</data>
+    </edge>
+    <edge source="User_3" target="User_6">
+      <data key="d2">FOLLOWS</data>
+    </edge>
+    <edge source="User_3" target="Post_1">
+      <data key="d2">COMMENTED</data>
+    </edge>
+    <edge source="User_3" target="Post_5">
+      <data key="d2">LIKED</data>
+    </edge>
+    <edge source="User_3" target="Club_1">
+      <data key="d2">MEMBER_OF</data>
+    </edge>
+    <edge source="User_4" target="Post_4">
+      <data key="d2">POSTED</data>
+    </edge>
+    <edge source="User_4" target="User_5">
+      <data key="d2">FOLLOWS</data>
+    </edge>
+    <edge source="User_4" target="Post_3">
+      <data key="d2">LIKED</data>
+    </edge>
+    <edge source="User_4" target="Post_6">
+      <data key="d2">COMMENTED</data>
+    </edge>
+    <edge source="User_4" target="Club_2">
+      <data key="d2">MEMBER_OF</data>
+    </edge>
+    <edge source="User_5" target="Post_5">
+      <data key="d2">POSTED</data>
+    </edge>
+    <edge source="User_5" target="User_1">
+      <data key="d2">FOLLOWS</data>
+    </edge>
+    <edge source="User_5" target="User_8">
+      <data key="d2">FOLLOWS</data>
+    </edge>
+    <edge source="User_5" target="Post_4">
+      <data key="d2">LIKED</data>
+    </edge>
+    <edge source="User_5" target="Post_7">
+      <data key="d2">LIKED</data>
+    </edge>
+    <edge source="User_5" target="Post_3">
+      <data key="d2">COMMENTED</data>
+    </edge>
+    <edge source="User_5" target="Club_2">
+      <data key="d2">MEMBER_OF</data>
+    </edge>
+    <edge source="User_6" target="Post_6">
+      <data key="d2">POSTED</data>
+    </edge>
+    <edge source="User_6" target="User_2">
+      <data key="d2">FOLLOWS</data>
+    </edge>
+    <edge source="User_6" target="Post_5">
+      <data key="d2">LIKED</data>
+    </edge>
+    <edge source="User_6" target="Post_4">
+      <data key="d2">COMMENTED</data>
+    </edge>
+    <edge source="User_6" target="Post_8">
+      <data key="d2">COMMENTED</data>
+    </edge>
+    <edge source="User_6" target="Club_2">
+      <data key="d2">MEMBER_OF</data>
+    </edge>
+    <edge source="User_7" target="Post_7">
+      <data key="d2">POSTED</data>
+    </edge>
+    <edge source="User_7" target="User_3">
+      <data key="d2">FOLLOWS</data>
+    </edge>
+    <edge source="User_7" target="User_10">
+      <data key="d2">FOLLOWS</data>
+    </edge>
+    <edge source="User_7" target="Post_6">
+      <data key="d2">LIKED</data>
+    </edge>
+    <edge source="User_7" target="Post_9">
+      <data key="d2">LIKED</data>
+    </edge>
+    <edge source="User_7" target="Post_5">
+      <data key="d2">COMMENTED</data>
+    </edge>
+    <edge source="User_7" target="Club_3">
+      <data key="d2">MEMBER_OF</data>
+    </edge>
+    <edge source="User_8" target="Post_8">
+      <data key="d2">POSTED</data>
+    </edge>
+    <edge source="User_8" target="User_4">
+      <data key="d2">FOLLOWS</data>
+    </edge>
+    <edge source="User_8" target="Post_7">
+      <data key="d2">LIKED</data>
+    </edge>
+    <edge source="User_8" target="Post_6">
+      <data key="d2">COMMENTED</data>
+    </edge>
+    <edge source="User_8" target="Post_10">
+      <data key="d2">COMMENTED</data>
+    </edge>
+    <edge source="User_8" target="Club_3">
+      <data key="d2">MEMBER_OF</data>
+    </edge>
+    <edge source="User_9" target="Post_9">
+      <data key="d2">POSTED</data>
+    </edge>
+    <edge source="User_9" target="User_5">
+      <data key="d2">FOLLOWS</data>
+    </edge>
+    <edge source="User_9" target="Post_8">
+      <data key="d2">LIKED</data>
+    </edge>
+    <edge source="User_9" target="Post_11">
+      <data key="d2">LIKED</data>
+    </edge>
+    <edge source="User_9" target="Post_7">
+      <data key="d2">COMMENTED</data>
+    </edge>
+    <edge source="User_9" target="Club_3">
+      <data key="d2">MEMBER_OF</data>
+    </edge>
+    <edge source="User_10" target="Post_10">
+      <data key="d2">POSTED</data>
+    </edge>
+    <edge source="User_10" target="User_6">
+      <data key="d2">FOLLOWS</data>
+    </edge>
+    <edge source="User_10" target="Post_9">
+      <data key="d2">LIKED</data>
+    </edge>
+    <edge source="User_10" target="Post_8">
+      <data key="d2">COMMENTED</data>
+    </edge>
+    <edge source="User_10" target="Post_12">
+      <data key="d2">COMMENTED</data>
+    </edge>
+    <edge source="User_10" target="Club_4">
+      <data key="d2">MEMBER_OF</data>
+    </edge>
+    <edge source="User_11" target="Post_11">
+      <data key="d2">POSTED</data>
+    </edge>
+    <edge source="User_11" target="User_7">
+      <data key="d2">FOLLOWS</data>
+    </edge>
+    <edge source="User_11" target="Post_10">
+      <data key="d2">LIKED</data>
+    </edge>
+    <edge source="User_11" target="Post_9">
+      <data key="d2">COMMENTED</data>
+    </edge>
+    <edge source="User_11" target="Club_4">
+      <data key="d2">MEMBER_OF</data>
+    </edge>
+    <edge source="User_12" target="Post_12">
+      <data key="d2">POSTED</data>
+    </edge>
+    <edge source="User_12" target="User_8">
+      <data key="d2">FOLLOWS</data>
+    </edge>
+    <edge source="User_12" target="Post_11">
+      <data key="d2">LIKED</data>
+    </edge>
+    <edge source="User_12" target="Post_10">
+      <data key="d2">COMMENTED</data>
+    </edge>
+    <edge source="User_12" target="Club_4">
+      <data key="d2">MEMBER_OF</data>
+    </edge>
+    <edge source="User_13" target="Post_13">
+      <data key="d2">POSTED</data>
+    </edge>
+    <edge source="User_13" target="User_9">
+      <data key="d2">FOLLOWS</data>
+    </edge>
+    <edge source="User_13" target="Post_12">
+      <data key="d2">LIKED</data>
+    </edge>
+    <edge source="User_13" target="Post_11">
+      <data key="d2">COMMENTED</data>
+    </edge>
+    <edge source="User_13" target="Club_5">
+      <data key="d2">MEMBER_OF</data>
+    </edge>
+    <edge source="User_14" target="Post_14">
+      <data key="d2">POSTED</data>
+    </edge>
+    <edge source="User_14" target="User_10">
+      <data key="d2">FOLLOWS</data>
+    </edge>
+    <edge source="User_14" target="Post_13">
+      <data key="d2">LIKED</data>
+    </edge>
+    <edge source="User_14" target="Post_12">
+      <data key="d2">COMMENTED</data>
+    </edge>
+    <edge source="User_14" target="Club_5">
+      <data key="d2">MEMBER_OF</data>
+    </edge>
+    <edge source="User_15" target="Post_15">
+      <data key="d2">POSTED</data>
+    </edge>
+    <edge source="User_15" target="User_11">
+      <data key="d2">FOLLOWS</data>
+    </edge>
+    <edge source="User_15" target="Post_14">
+      <data key="d2">LIKED</data>
+    </edge>
+    <edge source="User_15" target="Post_13">
+      <data key="d2">COMMENTED</data>
+    </edge>
+    <edge source="User_15" target="Club_5">
+      <data key="d2">MEMBER_OF</data>
+    </edge>
+    <edge source="Post_1" target="Hashtag_1">
+      <data key="d2">HAS_HASHTAG</data>
+    </edge>
+    <edge source="Post_1" target="Hashtag_7">
+      <data key="d2">HAS_HASHTAG</data>
+    </edge>
+    <edge source="Post_2" target="Hashtag_3">
+      <data key="d2">HAS_HASHTAG</data>
+    </edge>
+    <edge source="Post_3" target="Hashtag_2">
+      <data key="d2">HAS_HASHTAG</data>
+    </edge>
+    <edge source="Post_3" target="Hashtag_8">
+      <data key="d2">HAS_HASHTAG</data>
+    </edge>
+    <edge source="Post_4" target="Hashtag_2">
+      <data key="d2">HAS_HASHTAG</data>
+    </edge>
+    <edge source="Post_5" target="Hashtag_5">
+      <data key="d2">HAS_HASHTAG</data>
+    </edge>
+    <edge source="Post_6" target="Hashtag_7">
+      <data key="d2">HAS_HASHTAG</data>
+    </edge>
+    <edge source="Post_7" target="Hashtag_8">
+      <data key="d2">HAS_HASHTAG</data>
+    </edge>
+    <edge source="Post_8" target="Hashtag_6">
+      <data key="d2">HAS_HASHTAG</data>
+    </edge>
+    <edge source="Post_9" target="Hashtag_5">
+      <data key="d2">HAS_HASHTAG</data>
+    </edge>
+    <edge source="Post_10" target="Hashtag_1">
+      <data key="d2">HAS_HASHTAG</data>
+    </edge>
+    <edge source="Post_11" target="Hashtag_3">
+      <data key="d2">HAS_HASHTAG</data>
+    </edge>
+    <edge source="Post_12" target="Hashtag_10">
+      <data key="d2">HAS_HASHTAG</data>
+    </edge>
+    <edge source="Post_13" target="Hashtag_1">
+      <data key="d2">HAS_HASHTAG</data>
+    </edge>
+    <edge source="Post_14" target="Hashtag_4">
+      <data key="d2">HAS_HASHTAG</data>
+    </edge>
+    <edge source="Post_15" target="Hashtag_9">
+      <data key="d2">HAS_HASHTAG</data>
+    </edge>
+  </graph>
+</graphml>
